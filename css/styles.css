@@ -136,7 +136,11 @@ section h2 {
 
 .nazivi_ap, .ap {
   text-indent: 0px;
-  
+}
+
+.ap {
+  font-size: 20px;
+  line-height: 1.5em;
 }
 
 aside {
