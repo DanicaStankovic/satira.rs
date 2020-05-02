@@ -152,14 +152,22 @@ aside {
 aside > * {
   padding: 5px;
   margin: 0;
+  font-weight: 900;
+  max-width: 100%;
 }
 
 aside h2 {
   color: black;
+  font-size: 20px;
 }
 
-aside ul li {
-  margin-bottom: 14px;
+h3 {
+  color: #C19D2B;
+  font-size: 16px;
+}
+
+#slika_gosta {
+  width: 90%;
 }
 
 footer {
@@ -171,6 +179,7 @@ footer {
   text-align: center;
   align-content: center;
   font-size: 18px;
+  display: grid;
 }
 
 footer p {
@@ -249,6 +258,7 @@ footer p {
     top: 100px;
     grid-auto-rows: 1fr;
     min-height: 600px;
+    height: 100%;
   }
   section {
     position: inherit;
@@ -259,7 +269,6 @@ footer p {
 
   aside {
     width: 20%;
-    position: absolute;
     right: 0;
     z-index: 0;
   }
@@ -270,9 +279,5 @@ footer p {
 
   .azbuka {
     font-size: 50px;
-  }
-
-  footer {
-    height: 40px;
   }
 }
