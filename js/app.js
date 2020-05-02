@@ -8,7 +8,6 @@ document.getElementById('afo_nedelje').innerText = 'Хоћу да се бави�
 document.getElementById('ime_gosta').innerText = 'ЂОРЂЕ ОТАШЕВИЋ';
 document.getElementById('ime_gosta').href = 'http://www.alma.co.rs/autori/otasevic.html';
 document.getElementById('biografija_gosta').href = 'http://www.alma.co.rs/autori/otasevic.html';
-document.getElementById('slika_gosta').src = 'img/djordje_otasevic.jpg';
 document.getElementById('aforizam_gosta1').innerText = "Балистичком експертизом снајперске пушке утврђено је да је кроз њен двоглед неко гледао у звезде.";
 document.getElementById('aforizam_gosta2').innerText = "Време излагања у Парламенту је ограничено. Да би било у складу са посланицима.";
 document.getElementById('aforizam_gosta3').innerText = "Дочекали смо их хлебом и сољу. А они нека гледају како ће то да развуку на целу недељу.";
