@@ -3,7 +3,7 @@ let val;
 val = document;
 
 document.getElementById('ant_nedelje').innerText = 'Да смо на време oдвојили жито од кукоља, сада не бисмо млатили празну сламу.';
-document.getElementById('afo_nedelje').innerText = 'Хоћу да се бавим бизнисом, али не могу. Првог дана би ме ухватили на делу!';
+document.getElementById('afo_nedelje').innerText = 'Хоћу да се бавим бизнисом, али не смем. Првог дана би ме ухватили на делу!';
 
 document.getElementById('ime_gosta').innerText = 'ЂОРЂЕ ОТАШЕВИЋ';
 document.getElementById('ime_gosta').href = 'http://www.alma.co.rs/autori/otasevic.html';
