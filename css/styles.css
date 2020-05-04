@@ -124,6 +124,10 @@ article {
   text-align: center;
 }
 
+article a {
+  line-height: 2.2em;
+}
+
 .zk_slika {
   float: left;
   margin-left: 5px;
