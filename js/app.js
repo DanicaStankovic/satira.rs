@@ -19,4 +19,16 @@ document.getElementById('aforizam_gosta8').innerText = "Није садашња 
 document.getElementById('aforizam_gosta9').innerText = "Сведок уопште није био на месту злочина. Ето, колико је напредовала наша демократија.";
 document.getElementById('aforizam_gosta10').innerText = "Стално се упоређујем са сиромашнијима од себе, али је избор пао на критичну тачку.";
 
+function dodavanjeZvezdica() {
+    var oblast = document.getElementsByClassName('ap');
+       for(var i=0; i<oblast.length; i++) {
+        var sadrzajOblasti = oblast[i].innerHTML;
+        var noviSadrzajOblasti = sadrzajOblasti.replace(/<br>/g, "<br>***<br>");
+        console.log(noviSadrzajOblasti);
+        oblast[i].innerHTML = noviSadrzajOblasti;
+        }
+}
+
+dodavanjeZvezdica();
+
 console.log(val);
