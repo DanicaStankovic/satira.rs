@@ -143,6 +143,10 @@ article a {
   justify-content: center;
 }
 
+.azbuka {
+  font-size: 20px;
+}
+
 .naslovne_str {
   padding: 2px;
   float: left;
@@ -222,7 +226,7 @@ footer p {
   }
 
   .azbuka {
-    font-size: 20px;
+    font-size: 26px;
   }
 }
 
