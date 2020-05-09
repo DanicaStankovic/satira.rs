@@ -1,3 +1,11 @@
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
 body {
   background-color: #fefefe;
   font-family: "Times New Roman", Times, serif;
@@ -160,6 +168,10 @@ article a {
 .ap {
   font-size: 20px;
   line-height: 1.5em;
+}
+
+#afOblasti > * {
+  line-height: 2em;
 }
 
 aside {
