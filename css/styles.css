@@ -122,6 +122,7 @@ section h1, h2 {
   text-shadow: .2px -.2px .2px #000000;
   margin: .5px;
   font-size: 26px;
+  text-indent: 0;
 }
 
 section h2 {
