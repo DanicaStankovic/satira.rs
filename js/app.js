@@ -1,4 +1,4 @@
-let val;
+var val;
 
 val = document;
 
@@ -18,6 +18,12 @@ document.getElementById('aforizam_gosta7').innerText = "Мафијашке во�
 document.getElementById('aforizam_gosta8').innerText = "Није садашња власт крива што смо пали на дно. Закон гравитације је остао од претходног режима.";
 document.getElementById('aforizam_gosta9').innerText = "Сведок уопште није био на месту злочина. Ето, колико је напредовала наша демократија.";
 document.getElementById('aforizam_gosta10').innerText = "Стално се упоређујем са сиромашнијима од себе, али је избор пао на критичну тачку.";
+
+var potpis = document.createElement("img");
+potpis.src = "img/potpis.png";
+potpis.setAttribute("id", "potpis");
+var futer = document.getElementsByTagName('footer');
+futer[0].appendChild(potpis);
 
 function dodavanjeZvezdica() {
     var oblast = document.getElementsByClassName('ap');

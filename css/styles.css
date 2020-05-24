@@ -44,7 +44,7 @@ ul {
 }  
 
 nav {
-  height: 120px;
+  height: 180px;
   width: 100%;
 }
 
@@ -53,7 +53,7 @@ nav ul {
   padding: 0;
   overflow: hidden;
   background-color: #fefefe;
-  height: 120px;
+  height: 180px;
   display: flex;
   flex-direction: column;
 }
@@ -145,7 +145,7 @@ article a {
   height: auto;
 }
 
-.azbuka, .knjige {
+.azbuka, .knjige, footer {
   display: flex;
   flex-wrap: wrap;
   line-height: normal;
@@ -209,15 +209,17 @@ footer {
   clear: both;
   position: relative;
   padding: 3px;
-  text-align: center;
-  align-content: center;
   font-size: 18px;
-  display: grid;
+  text-align: center;
 }
 
 footer p {
   margin: 0px;
   font-weight: bold;
+}
+
+#potpis {
+  height: 80px;
 }
 
 .linkovi {
@@ -241,8 +243,16 @@ footer p {
 
   footer {
     height: 30px;
+    flex-direction: column;
   }
-
+  
+  #potpis {
+    height: 100%;
+    position: absolute;
+    right: 10px;
+    top: 0;
+  }
+  
   .azbuka {
     font-size: 30px;
   }
