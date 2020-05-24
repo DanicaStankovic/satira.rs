@@ -2,8 +2,8 @@ let val;
 
 val = document;
 
-document.getElementById('ant_nedelje').innerText = 'Да смо на време oдвојили жито од кукоља, сада не бисмо млатили празну сламу.';
-document.getElementById('afo_nedelje').innerText = 'Хоћу да се бавим бизнисом, али не смем. Првог дана би ме ухватили на делу!';
+document.getElementById('ant_nedelje').innerText = 'Врана врани очи не вади, али иза леђа и те како ради!';
+document.getElementById('afo_nedelje').innerText = 'Ако полиграф лаже, палица не лаже!';
 
 document.getElementById('ime_gosta').innerText = 'ЂОРЂЕ ОТАШЕВИЋ';
 document.getElementById('ime_gosta').href = 'http://www.alma.co.rs/autori/otasevic.html';
