@@ -2,8 +2,8 @@ var val;
 
 val = document;
 
-document.getElementById('ant_nedelje').innerText = 'Врана врани очи не вади, али иза леђа и те како ради!';
-document.getElementById('afo_nedelje').innerText = 'Ако полиграф лаже, палица не лаже!';
+document.getElementById('ant_nedelje').innerText = 'Боље целовита Србија у руци, него Европска унија на грани.';
+document.getElementById('afo_nedelje').innerText = 'Косово је срце Србије. Ко пожели да га донира, доживеће смртоносни политички инфаркт!';
 
 document.getElementById('ime_gosta').innerText = 'ЂОРЂЕ ОТАШЕВИЋ';
 document.getElementById('ime_gosta').href = 'http://www.alma.co.rs/autori/otasevic.html';
