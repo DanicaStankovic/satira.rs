@@ -2,8 +2,8 @@ var val;
 
 val = document;
 
-document.getElementById('ant_nedelje').innerText = 'Боље целовита Србија у руци, него Европска унија на грани.';
-document.getElementById('afo_nedelje').innerText = 'Косово је срце Србије. Ко пожели да га донира, доживеће смртоносни политички инфаркт!';
+document.getElementById('ant_nedelje').innerText = 'Кога Вашингтон уједе, и Брисела се плаши.';
+document.getElementById('afo_nedelje').innerText = 'Злочини на свим странама, а злочинци само на једној.';
 
 document.getElementById('ime_gosta').innerText = 'ЂОРЂЕ ОТАШЕВИЋ';
 document.getElementById('ime_gosta').href = 'http://www.alma.co.rs/autori/otasevic.html';
