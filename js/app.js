@@ -2,8 +2,8 @@ var val;
 
 val = document;
 
-document.getElementById('ant_nedelje').innerText = 'Кога Вашингтон уједе, и Брисела се плаши.';
-document.getElementById('afo_nedelje').innerText = 'Злочини на свим странама, а злочинци само на једној.';
+document.getElementById('ant_nedelje').innerText = 'Политика је курва. И с црним ђаволом се проституише.';
+document.getElementById('afo_nedelje').innerText = 'Куповина из фотеље је исплатива, али само током мандата.';
 
 document.getElementById('ime_gosta').innerText = 'ЂОРЂЕ ОТАШЕВИЋ';
 document.getElementById('ime_gosta').href = 'http://www.alma.co.rs/autori/otasevic.html';
