@@ -2,22 +2,30 @@ var val;
 
 val = document;
 
-document.getElementById('ant_nedelje').innerText = 'Политика је курва. И с црним ђаволом се проституише.';
-document.getElementById('afo_nedelje').innerText = 'Куповина из фотеље је исплатива, али само током мандата.';
+document.getElementById('ant_nedelje').innerText = 'Европа нема алтернативу. Великодушно намеће сваку директиву!';
+document.getElementById('afo_nedelje').innerText = 'Канцерогени утицај Русије на Балкану је недопустив. Резервисан је само за НАТО!';
 
-document.getElementById('ime_gosta').innerText = 'ЂОРЂЕ ОТАШЕВИЋ';
-document.getElementById('ime_gosta').href = 'http://www.alma.co.rs/autori/otasevic.html';
-document.getElementById('biografija_gosta').href = 'http://www.alma.co.rs/autori/otasevic.html';
-document.getElementById('aforizam_gosta1').innerText = "Балистичком експертизом снајперске пушке утврђено је да је кроз њен двоглед неко гледао у звезде.";
-document.getElementById('aforizam_gosta2').innerText = "Време излагања у Парламенту је ограничено. Да би било у складу са посланицима.";
-document.getElementById('aforizam_gosta3').innerText = "Дочекали смо их хлебом и сољу. А они нека гледају како ће то да развуку на целу недељу.";
-document.getElementById('aforizam_gosta4').innerText = "Јесте он природно глуп, али се без сталног усавршавања овај ниво не може постићи.";
-document.getElementById('aforizam_gosta5').innerText = "Кад је видео да умем да читам и пишем, факултетску диплому ми је продао у пола цене.";
-document.getElementById('aforizam_gosta6').innerText = "Кратковиде смо послали у прве борбене редове. Да не напрежу очи.";
-document.getElementById('aforizam_gosta7').innerText = "Мафијашке вође су изабрале чланове владе тајним гласањем. У складу са највишим демократским стандардима.";
-document.getElementById('aforizam_gosta8').innerText = "Није садашња власт крива што смо пали на дно. Закон гравитације је остао од претходног режима.";
-document.getElementById('aforizam_gosta9').innerText = "Сведок уопште није био на месту злочина. Ето, колико је напредовала наша демократија.";
-document.getElementById('aforizam_gosta10').innerText = "Стално се упоређујем са сиромашнијима од себе, али је избор пао на критичну тачку.";
+
+document.getElementById('ime_gosta').innerText = "АРАНЂЕЛОВИЋ ИВАН";
+document.getElementById('ime_gosta').href = "http://sipakrs.blogspot.com/search/label/Ivan%20Aran%C4%91elovi%C4%87?&max-results=8";
+document.getElementById('ime_gosta').target = "_blank";
+document.getElementById('aforizam_gosta1').innerText = "Адвокат ми је препоручио ванредне правне лекове. У случају нежељене пресуде, обратићу се лекару или фармацеуту.";
+document.getElementById('aforizam_gosta2').innerText = "Осуђен сам на три доживотне робије. Уз добро владање, можда ми смање на две.";
+document.getElementById('aforizam_gosta3').innerText = "Револтиран грађанин је пуцао у посланика! Као олакшавајућа околност узето је то што је опозициони.";
+
+document.getElementById('ime_gosta2').innerText = "ДАМЊАНОВИЋ ИГОР БРАЦА - ДИБ";
+document.getElementById('ime_gosta2').href = "https://dibovanje.wordpress.com/tag/igor-braca-damnjanovic-dib/";
+document.getElementById('ime_gosta2').target = "_blank";
+document.getElementById('aforizam_gosta4').innerText = "Богиња правде је слепа, па суд не следи њу, него вођу.";
+document.getElementById('aforizam_gosta5').innerText = "Унајмио сам адвоката. Ја не умем да лажем.";
+document.getElementById('aforizam_gosta6').innerText = "У бракоразводној парници највише је добио адвокат. И моје паре и моју жену.";
+
+document.getElementById('ime_gosta3').innerText = "ОТАШЕВИЋ ЂОРЂЕ";
+document.getElementById('ime_gosta3').href = "http://www.alma.co.rs/autori/otasevic.html";
+document.getElementById('ime_gosta3').target = "_blank";
+document.getElementById('aforizam_gosta7').innerText = "Мафијаш се брани ћутањем. Застрашених сведока.";
+document.getElementById('aforizam_gosta8').innerText = "Одлежао је у затвору десет година. Тако му је суђено.";
+document.getElementById('aforizam_gosta9').innerText = "Спортски риболовци пуштају ситне рибе. Судије обрнуто.";
 
 var potpis = document.createElement("img");
 potpis.src = "img/potpis.png";
