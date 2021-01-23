@@ -2,8 +2,8 @@ var val;
 
 val = document;
 
-document.getElementById('ant_nedelje').innerText = 'Европа нема алтернативу. Великодушно намеће сваку директиву!';
-document.getElementById('afo_nedelje').innerText = 'Канцерогени утицај Русије на Балкану је недопустив. Резервисан је само за НАТО!';
+document.getElementById('ant_nedelje').innerText = 'Косово је колевка српског народа. Једнима у срцу, другима на души!';
+document.getElementById('afo_nedelje').innerText = 'Америчка демократија је сахрањена! Најискреније саучествујем у болу оних који су јој се бескрајно дивили.';
 
 
 document.getElementById('ime_gosta').innerText = "АРАНЂЕЛОВИЋ ИВАН";
