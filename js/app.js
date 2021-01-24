@@ -20,12 +20,41 @@ document.getElementById('aforizam_gosta4').innerText = "Богиња правд�
 document.getElementById('aforizam_gosta5').innerText = "Унајмио сам адвоката. Ја не умем да лажем.";
 document.getElementById('aforizam_gosta6').innerText = "У бракоразводној парници највише је добио адвокат. И моје паре и моју жену.";
 
-document.getElementById('ime_gosta3').innerText = "ОТАШЕВИЋ ЂОРЂЕ";
-document.getElementById('ime_gosta3').href = "http://www.alma.co.rs/autori/otasevic.html";
+document.getElementById('ime_gosta3').innerText = "ДОДЕРОВИЋ ЗОРАН";
+document.getElementById('ime_gosta3').href = "https://www.rastko.rs/rastko/delo/16033";
 document.getElementById('ime_gosta3').target = "_blank";
-document.getElementById('aforizam_gosta7').innerText = "Мафијаш се брани ћутањем. Застрашених сведока.";
-document.getElementById('aforizam_gosta8').innerText = "Одлежао је у затвору десет година. Тако му је суђено.";
-document.getElementById('aforizam_gosta9').innerText = "Спортски риболовци пуштају ситне рибе. Судије обрнуто.";
+document.getElementById('aforizam_gosta7').innerText = "Кад су закони пуни рупа, правда споро стиже на циљ.";
+document.getElementById('aforizam_gosta8').innerText = "Судија је био на страни правде, али је мито пресудио.";
+document.getElementById('aforizam_gosta9').innerText = "Председник је оправдано амнестирао затворенике. Сви до једног су тврдили да су невини.";
+
+document.getElementById('ime_gosta4').innerText = "ЈОВАНОВИЋ ЗОРАН";
+document.getElementById('ime_gosta4').href = "https://medijacentar016.com/index.php/2020/05/19/mr-zoran-jovanovic-pisac-i-aforisticar-potomak-nagradjena-pesma/";
+document.getElementById('ime_gosta4').target = "_blank";
+document.getElementById('aforizam_gosta10').innerText = "Ако Прле ћути, сви други су Тихи!";
+document.getElementById('aforizam_gosta11').innerText = "Два су лоша убила Милоша, трећи је сведок сарадник.";
+document.getElementById('aforizam_gosta12').innerText = "Није све у дугим ногама, има и нешто између.";
+
+document.getElementById('ime_gosta5').innerText = "КОЦИЋ ДАНИЛО";
+document.getElementById('ime_gosta5').href = "https://sr.wikipedia.org/sr-el/%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%BE_%D0%9A%D0%BE%D1%86%D0%B8%D1%9B";
+document.getElementById('ime_gosta5').target = "_blank";
+document.getElementById('aforizam_gosta13').innerText = "Највећи криминалци ослобођени су на суду. То је најбољи доказ да смо правна држава.";
+document.getElementById('aforizam_gosta14').innerText = "Понекад морају и невини да се осуде, да би се постигао задовољавајући учинак правне државе.";
+document.getElementById('aforizam_gosta15').innerText = "У Уставу пише једно, у законима друго, у пракси је – треће. Не будимо баш толики формалисти.";
+
+document.getElementById('ime_gosta6').innerText = "КУЛИЋ МИРКО";
+document.getElementById('ime_gosta6').href = "https://sr.wikipedia.org/sr-ec/%D0%9C%D0%B8%D1%80%D0%BA%D0%BE_%D0%9A%D1%83%D0%BB%D0%B8%D1%9B";
+document.getElementById('ime_gosta6').target = "_blank";
+document.getElementById('aforizam_gosta16').innerText = "Сведок би говорио истину, али му нису рекли коју.";
+document.getElementById('aforizam_gosta17').innerText = "Уставни суд Босне и Херцеговине је јединствен. Судије интернационалне, одлуке једнонационалне!";
+document.getElementById('aforizam_gosta18').innerText = "Што су злочинци моћнији, то лакше доказују кривицу жртава!";
+
+document.getElementById('ime_gosta7').innerText = "ОТАШЕВИЋ ЂОРЂЕ";
+document.getElementById('ime_gosta7').href = "http://www.alma.co.rs/autori/otasevic.html";
+document.getElementById('ime_gosta7').target = "_blank";
+document.getElementById('aforizam_gosta19').innerText = "Мафијаш се брани ћутањем. Застрашених сведока.";
+document.getElementById('aforizam_gosta20').innerText = "Одлежао је у затвору десет година. Тако му је суђено.";
+document.getElementById('aforizam_gosta21').innerText = "Спортски риболовци пуштају ситне рибе. Судије обрнуто.";
+
 
 var potpis = document.createElement("img");
 potpis.src = "img/potpis.png";
