@@ -2,8 +2,8 @@ var val;
 
 val = document;
 
-document.getElementById('ant_nedelje').innerText = 'Косово је колевка српског народа. Једнима у срцу, другима на души!';
-document.getElementById('afo_nedelje').innerText = 'Америчка демократија је сахрањена! Најискреније саучествујем у болу оних који су јој се бескрајно дивили.';
+document.getElementById('ant_nedelje').innerText = 'Поклону се у зубе не гледа. Поклонодавац их је доста гледао.';
+document.getElementById('afo_nedelje').innerText = 'Криви смо што смо живи, а оптужују нас и што још увек не можемо да станемо под једну шљиву!';
 
 
 document.getElementById('ime_gosta').innerText = "АРАНЂЕЛОВИЋ ИВАН";
