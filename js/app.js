@@ -2,8 +2,8 @@ var val;
 
 val = document;
 
-document.getElementById('ant_nedelje').innerText = 'Поклону се у зубе не гледа. Поклонодавац их је доста гледао.';
-document.getElementById('afo_nedelje').innerText = 'Криви смо што смо живи, а оптужују нас и што још увек не можемо да станемо под једну шљиву!';
+document.getElementById('ant_nedelje').innerText = 'Србија је Исток на Западу и Запад на Истоку. Зато и седи на две столице.';
+document.getElementById('afo_nedelje').innerText = 'Опрезан мушкарац контролише ситуацију, а неопрезан плаћа алиментацију.';
 
 
 document.getElementById('ime_gosta').innerText = "АРАНЂЕЛОВИЋ ИВАН";
@@ -55,6 +55,12 @@ document.getElementById('aforizam_gosta19').innerText = "Мафијаш се б�
 document.getElementById('aforizam_gosta20').innerText = "Одлежао је у затвору десет година. Тако му је суђено.";
 document.getElementById('aforizam_gosta21').innerText = "Спортски риболовци пуштају ситне рибе. Судије обрнуто.";
 
+document.getElementById('ime_gosta8').innerText = "ЋОСИЋ МИЛОРАД";
+document.getElementById('ime_gosta8').href = "https://www.konkretno.co.rs/autori/milorad-cosic";
+document.getElementById('ime_gosta8').target = "_blank";
+document.getElementById('aforizam_gosta22').innerText = "Закон гарантује слободу говора, слободно причајте па ћете се уверити.";
+document.getElementById('aforizam_gosta23').innerText = "За сваку  власт слобода је нежељена трудноћа.";
+document.getElementById('aforizam_gosta24').innerText = "Народ се ућутао, а то је громогласна порука.";
 
 var potpis = document.createElement("img");
 potpis.src = "img/potpis.png";
