@@ -2,8 +2,8 @@ var val;
 
 val = document;
 
-document.getElementById('ant_nedelje').innerText = 'Србија је Исток на Западу и Запад на Истоку. Зато и седи на две столице.';
-document.getElementById('afo_nedelje').innerText = 'Опрезан мушкарац контролише ситуацију, а неопрезан плаћа алиментацију.';
+document.getElementById('ant_nedelje').innerText = 'У лажи су кратке ноге. И полиграф јој је за петама!';
+document.getElementById('afo_nedelje').innerText = 'На климаву фотељу и полтрон истреса гаће!';
 
 
 document.getElementById('ime_gosta').innerText = "АРАНЂЕЛОВИЋ ИВАН";
