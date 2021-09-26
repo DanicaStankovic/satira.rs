@@ -2,23 +2,23 @@ var val;
 
 val = document;
 
-document.getElementById('ant_nedelje').innerText = 'У лажи су кратке ноге. И полиграф јој је за петама!';
-document.getElementById('afo_nedelje').innerText = 'На климаву фотељу и полтрон истреса гаће!';
+document.getElementById('ant_nedelje').innerText = 'Нема хлеба без мотике, ни врућих кромпира без политике!';
+document.getElementById('afo_nedelje').innerText = 'Кад пастир постане вођа, народ одмах претвара у стадо!';
 
 
 document.getElementById('ime_gosta').innerText = "АРАНЂЕЛОВИЋ ИВАН";
 document.getElementById('ime_gosta').href = "http://sipakrs.blogspot.com/search/label/Ivan%20Aran%C4%91elovi%C4%87?&max-results=8";
 document.getElementById('ime_gosta').target = "_blank";
-document.getElementById('aforizam_gosta1').innerText = "Адвокат ми је препоручио ванредне правне лекове. У случају нежељене пресуде, обратићу се лекару или фармацеуту.";
-document.getElementById('aforizam_gosta2').innerText = "Осуђен сам на три доживотне робије. Уз добро владање, можда ми смање на две.";
-document.getElementById('aforizam_gosta3').innerText = "Револтиран грађанин је пуцао у посланика! Као олакшавајућа околност узето је то што је опозициони.";
+document.getElementById('aforizam_gosta1').innerText = "Револтиран грађанин је пуцао у посланика! Као олакшавајућа околност узето је то што је опозициони.";
+document.getElementById('aforizam_gosta2').innerText = "У време кризе и спонзоруше се удају из љубави.";
+document.getElementById('aforizam_gosta3').innerText = "У Геодетском заводу нема слободних девојака. Све су укњижене.";
 
 document.getElementById('ime_gosta2').innerText = "ДАМЊАНОВИЋ ИГОР БРАЦА - ДИБ";
 document.getElementById('ime_gosta2').href = "https://dibovanje.wordpress.com/tag/igor-braca-damnjanovic-dib/";
 document.getElementById('ime_gosta2').target = "_blank";
-document.getElementById('aforizam_gosta4').innerText = "Богиња правде је слепа, па суд не следи њу, него вођу.";
-document.getElementById('aforizam_gosta5').innerText = "Унајмио сам адвоката. Ја не умем да лажем.";
-document.getElementById('aforizam_gosta6').innerText = "У бракоразводној парници највише је добио адвокат. И моје паре и моју жену.";
+document.getElementById('aforizam_gosta4').innerText = "Унајмио сам адвоката. Ја не умем да лажем.";
+document.getElementById('aforizam_gosta5').innerText = "Хоћемо у Европу по сваку цену. А то ће скупо да нас кошта!";
+document.getElementById('aforizam_gosta6').innerText = "Народ ће стезати каиш, док не пукне!";
 
 document.getElementById('ime_gosta3').innerText = "ДОДЕРОВИЋ ЗОРАН";
 document.getElementById('ime_gosta3').href = "https://www.rastko.rs/rastko/delo/16033";
