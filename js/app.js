@@ -2,8 +2,8 @@ var val;
 
 val = document;
 
-document.getElementById('ant_nedelje').innerText = 'У памет се, браћо Милогорци! Преци вам се преврћу у гробу.';
-document.getElementById('afo_nedelje').innerText = 'Криви смо што смо живи, а оптужују нас и што недовољно величамо њихове злочине.';
+document.getElementById('ant_nedelje').innerText = 'Сваки почетак је тежак. Једва саставља крај с крајем.';
+document.getElementById('afo_nedelje').innerText = 'Косовска битка је била 1389. године, а битка за Косово траје и данас.';
 
 
 document.getElementById('ime_gosta').innerText = "АРАНЂЕЛОВИЋ ИВАН";
