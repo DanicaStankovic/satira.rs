@@ -2,9 +2,8 @@ var val;
 
 val = document;
 
-document.getElementById('ant_nedelje').innerText = 'Сваки почетак је тежак. Једва саставља крај с крајем.';
-document.getElementById('afo_nedelje').innerText = 'Косовска битка је била 1389. године, а битка за Косово траје и данас.';
-
+document.getElementById('ant_nedelje').innerText = "Од два зла увек бирамо веће. Курате смо среће!";
+document.getElementById('afo_nedelje').innerText = 'Ко пали и жари, мора повремено и да се посипа пепелом.';
 
 document.getElementById('ime_gosta').innerText = "АРАНЂЕЛОВИЋ ИВАН";
 document.getElementById('ime_gosta').href = "http://sipakrs.blogspot.com/search/label/Ivan%20Aran%C4%91elovi%C4%87?&max-results=8";
